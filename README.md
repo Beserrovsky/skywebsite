@@ -13,12 +13,14 @@ This is our website's code.
 
 ### 1. Install Node
 1.1 Install [nvm](https://github.com/nvm-sh/nvm) (node-version-manager)
+
 1.2 `nvm use 16.19`
 > Select the LTS node version 16.19.0
 
 ### 2. Clone repos
 2.1 `git clone git@github.com:Beserrovsky/skywebsite.git`
-2.2 *OPTIONAL* `git checkout develop && git pull`
+
+2.2 **OPTIONAL:** `git checkout develop && git pull`
 > Select develop branch for latest code
 
 ### 3. Install dependencies
