@@ -20,7 +20,7 @@ This is our website's code.
 ### 2. Clone repos
 2.1 `git clone git@github.com:Beserrovsky/skywebsite.git`
 
-2.2 **OPTIONAL:** `git checkout develop && git pull`
+2.2 **OPTIONAL:** `git checkout -b develop origin/develop`
 > Select develop branch for latest code
 
 ### 3. Install dependencies
