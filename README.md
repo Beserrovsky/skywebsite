@@ -1,6 +1,6 @@
 # Skyrats website
 
-Skyrats is a studant organization that makes autonomous drones for competing in brazilian and international competitions.
+Skyrats is a student organization that makes autonomous drones for competing in brazilian and international competitions.
 
 This is our website's code.
 
