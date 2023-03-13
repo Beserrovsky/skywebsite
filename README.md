@@ -7,6 +7,7 @@ This is our website's code.
 ## Summary
 
 - [Installation](#installation)
+- [Credits](#credits)
 - [Copyright](#copyright)
 
 ## Installation
@@ -30,6 +31,11 @@ This is our website's code.
 4.1 `npm run dev`
 
 ## Credits
+
+Every team participant that contribute with it's public image is doing a great work not only for Skyrats but also for Brazil, so, sign if it is your turn to keep our website up to date!
+
+- SkySite creators (legacy website)
+- Felipe Beserra 🥰️
 
 Nowadays, not even the simplest web app is designed without some google assistance.
 
