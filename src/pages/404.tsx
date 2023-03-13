@@ -1,13 +1,9 @@
 import Head from 'next/head'
 import { Inter } from 'next/font/google'
-import { useRouter } from 'next/router'
 
 const inter = Inter({ subsets: ['latin'] })
 
-export default function Home() {
-
-  const route = useRouter();
-
+export default function Error404() {
   return (
     <>
       <Head>
@@ -23,7 +19,7 @@ export default function Home() {
         <meta property="og:image" content="/banner.png"/>
       </Head>
       <main>
-        {route.locale}
+        ERRO 404
       </main>
     </>
   )
