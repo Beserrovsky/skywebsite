@@ -31,11 +31,13 @@ This is our website's code.
 
 ## Credits
 
-Nowadays, not even the simplest web app is designed without some google assistant.
+Nowadays, not even the simplest web app is designed without some google assistance.
 
-Therefore, we would like to thanks some of ours searches.
+Therefore, we would like to thanks some of ours searches:
 
-[Houssein Mousavi - Add dark theme to nextjs](https://javascript.plainenglish.io/how-to-implement-dark-light-themes-in-a-next-js-app-using-context-hook-tailwindcss-336558dd4579)
+- [Houssein Mousavi - Add dark theme to nextjs](https://javascript.plainenglish.io/how-to-implement-dark-light-themes-in-a-next-js-app-using-context-hook-tailwindcss-336558dd4579)
+
+Special thanks to Vercel and Tailwind for the docs on their tools.
 
 ## Copyright
 
