@@ -29,6 +29,14 @@ This is our website's code.
 ### 4. Run locally
 4.1 `npm run dev`
 
+## Credits
+
+Nowadays, not even the simplest web app is designed without some google assistant.
+
+Therefore, we would like to thanks some of ours searches.
+
+[Houssein Mousavi - Add dark theme to nextjs](https://javascript.plainenglish.io/how-to-implement-dark-light-themes-in-a-next-js-app-using-context-hook-tailwindcss-336558dd4579)
+
 ## Copyright
 
 Although this website's code is freely available, it's contents are protected by Brazilian legislation and any impersonation will be punished severally.

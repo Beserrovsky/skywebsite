@@ -1,5 +1,4 @@
 import { useContext } from 'react'
-import Image from 'next/image'
 import MyThemeContext from '@/store/myThemeContext'
 
 export default function Header() {
@@ -18,15 +17,8 @@ export default function Header() {
             href="https://github.com/hossein13m/nextjs-tailwind-dark-theme"
             target="blank"
           >
-            <Image
-              className="dark:white-filter"
-              src="/github.png"
-              alt="GitHub Logo"
-              width={27}
-              height={27}
-            />
             <h1 className="text-black sm:text-2xl ml-2 dark:text-white">
-              GitHub Repository
+              Skyrats
             </h1>
           </a>
         </div>
