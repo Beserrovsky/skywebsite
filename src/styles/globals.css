@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@import url('../../public/melancoline/stylesheet.css');
+
+.font-melancoline {
+    font-family: 'Melancoline';
+}

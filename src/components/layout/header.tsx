@@ -17,7 +17,7 @@ export default function Header() {
             href="https://github.com/hossein13m/nextjs-tailwind-dark-theme"
             target="blank"
           >
-            <h1 className="text-black sm:text-2xl ml-2 dark:text-white">
+            <h1 className="text-black sm:text-2xl ml-2 dark:text-white font-melancoline">
               Skyrats
             </h1>
           </a>
